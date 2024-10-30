@@ -1,0 +1,11 @@
+{
+    "test_type": "java",
+    "build_time": 98.0,
+    "image_size": "448MB",
+    "timestamp": "2024-10-30T13:23:58Z",
+    "build_options": {
+        "clean_cache": true,
+        "no_cache": false,
+        "verbose": false
+    }
+}

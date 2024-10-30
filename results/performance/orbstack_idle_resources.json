@@ -1,0 +1,12 @@
+{
+    "engine": "orbstack",
+    "test_type": "idle",
+    "duration": 60,
+    "interval": 5,
+    "samples": 6,
+    "metrics": {
+        "cpu_average": 11.916666666666666,
+        "memory_average": 6467.552083333333,
+        "power_average_mw": 720.717018063881
+    }
+}

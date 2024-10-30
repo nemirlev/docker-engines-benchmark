@@ -1,0 +1,15 @@
+{
+  "engine": "rancher-desktop",
+  "timestamp": "2024-10-30T19:28:08Z",
+  "repeat_count": 3,
+  "results": {
+    "average": 19.333,
+    "min": 0,
+    "max": 29.0,
+    "all_times": [
+      "29.0",
+      "0",
+      "29.0"
+    ]
+  }
+}

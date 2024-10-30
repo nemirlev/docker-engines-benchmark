@@ -1,0 +1,15 @@
+{
+  "engine": "podman-desktop",
+  "timestamp": "2024-10-30T19:17:10Z",
+  "repeat_count": 3,
+  "results": {
+    "average": 0.666,
+    "min": 0,
+    "max": 1.0,
+    "all_times": [
+      "0",
+      "1.0",
+      "1.0"
+    ]
+  }
+}

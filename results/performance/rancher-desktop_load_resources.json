@@ -1,0 +1,12 @@
+{
+    "engine": "rancher-desktop",
+    "test_type": "load",
+    "duration": 60,
+    "interval": 5,
+    "samples": 6,
+    "metrics": {
+        "cpu_average": 124.35000000000001,
+        "memory_average": 10269.5,
+        "power_average_mw": 17624.838980918375
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "engine": "podman-desktop",
+    "test_type": "load",
+    "duration": 60,
+    "interval": 5,
+    "samples": 6,
+    "metrics": {
+        "cpu_average": 3.85,
+        "memory_average": 850.96875,
+        "power_average_mw": 239.7132148170018
+    }
+}

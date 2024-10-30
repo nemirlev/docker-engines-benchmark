@@ -1,0 +1,12 @@
+{
+    "engine": "docker-desktop",
+    "test_type": "load",
+    "duration": 60,
+    "interval": 5,
+    "samples": 6,
+    "metrics": {
+        "cpu_average": 0.46666666666666673,
+        "memory_average": 549.7760416666666,
+        "power_average_mw": 41.410435323154225
+    }
+}

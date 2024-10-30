@@ -1,0 +1,11 @@
+{
+    "test_type": "simple",
+    "build_time": 9.0,
+    "image_size": "173MB",
+    "timestamp": "2024-10-30T13:25:28Z",
+    "build_options": {
+        "clean_cache": true,
+        "no_cache": false,
+        "verbose": false
+    }
+}

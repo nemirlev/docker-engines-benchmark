@@ -1,0 +1,15 @@
+{
+  "engine": "docker-desktop",
+  "timestamp": "2024-10-30T11:59:18Z",
+  "repeat_count": 3,
+  "results": {
+    "average": 3.666,
+    "min": 3.0,
+    "max": 4.0,
+    "all_times": [
+      "4.0",
+      "4.0",
+      "3.0"
+    ]
+  }
+}

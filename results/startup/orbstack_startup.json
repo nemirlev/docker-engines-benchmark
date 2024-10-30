@@ -1,0 +1,15 @@
+{
+  "engine": "orbstack",
+  "timestamp": "2024-10-30T13:22:15Z",
+  "repeat_count": 3,
+  "results": {
+    "average": 3.000,
+    "min": 3.0,
+    "max": 3.0,
+    "all_times": [
+      "3.0",
+      "3.0",
+      "3.0"
+    ]
+  }
+}

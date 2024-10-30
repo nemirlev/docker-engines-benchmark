@@ -1,0 +1,15 @@
+{
+  "engine": "colima",
+  "timestamp": "2024-10-30T18:13:44Z",
+  "repeat_count": 3,
+  "results": {
+    "average": 14.333,
+    "min": 14.0,
+    "max": 15.0,
+    "all_times": [
+      "14.0",
+      "14.0",
+      "15.0"
+    ]
+  }
+}

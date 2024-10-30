@@ -1,0 +1,12 @@
+{
+    "engine": "colima",
+    "test_type": "load",
+    "duration": 60,
+    "interval": 5,
+    "samples": 6,
+    "metrics": {
+        "cpu_average": 150.85,
+        "memory_average": 8083.9296875,
+        "power_average_mw": 16237.257135528818
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "test_type": "ml",
+    "build_time": 275.0,
+    "image_size": "2.16GB",
+    "timestamp": "2024-10-30T18:23:04Z",
+    "build_options": {
+        "clean_cache": true,
+        "no_cache": false,
+        "verbose": false
+    }
+}
